@@ -9,9 +9,9 @@ JavaScript enthusiast and full-time web developer. Specializing in the MERN stac
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-one-delta-63.vercel.app/)
 * ✉️  You can contact me at [saifad303@gmail.com](mailto:saifad303@gmail.com)
-* 🧠  I'm learning NextJS, Prisma, MongoDB, JWT, ExpressJS
+* 🧠  I'm learning UI/UX, NextJS, Prisma, MongoDB, JWT, ExpressJS
 * 🤝  I'm open to collaborating on JavaScript(ES6), ReactJS (Vite), TailwindCSS
-* ⚡  I am secretly MARVEL fan. Big fan of Captain America ✪
+* ⚡  I am secretly a MARVEL fan. Big fan of Captain America ✪
 
 ### Skills
 
